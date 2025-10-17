@@ -63,9 +63,8 @@ steam-reviews-predictive-pipeline/
 - Structured the dataset for downstream model training
 
 ## Next Steps
-
-- Train and evaluate predictive models using PySpark MLlib or other frameworks  
-- Experiment with interactions and transformations of features to better model
+ 
+- Experiment with more interactions and transformations of features to better fit the data
 - Optimize pipelines for repeatability and deployment across cloud systems
 
 ## Author
@@ -73,4 +72,3 @@ steam-reviews-predictive-pipeline/
 **Christopher Orellana**  
 M.S. Candidate, Data Analytics  
 Baruch College  
-GitHub: [Christopher-Orellana](https://github.com/Christopher-Orellana)
